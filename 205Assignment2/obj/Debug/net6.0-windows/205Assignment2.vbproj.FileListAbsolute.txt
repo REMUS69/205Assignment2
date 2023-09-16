@@ -1,0 +1,16 @@
+D:\VisualStudioRepos\205Assignment2\bin\Debug\net6.0-windows\205Assignment2.exe
+D:\VisualStudioRepos\205Assignment2\bin\Debug\net6.0-windows\205Assignment2.deps.json
+D:\VisualStudioRepos\205Assignment2\bin\Debug\net6.0-windows\205Assignment2.runtimeconfig.json
+D:\VisualStudioRepos\205Assignment2\bin\Debug\net6.0-windows\205Assignment2.dll
+D:\VisualStudioRepos\205Assignment2\bin\Debug\net6.0-windows\205Assignment2.pdb
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\_205Assignment2.Form1.resources
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.vbproj.GenerateResource.cache
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.AssemblyInfo.vb
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.vbproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.dll
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\refint\205Assignment2.dll
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.pdb
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\205Assignment2.genruntimeconfig.cache
+D:\VisualStudioRepos\205Assignment2\obj\Debug\net6.0-windows\ref\205Assignment2.dll
